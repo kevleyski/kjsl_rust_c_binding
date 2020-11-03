@@ -1,0 +1,1 @@
+Kev's quick explaination of how to bind a C function in Rust (without bindgen)
