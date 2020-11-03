@@ -3,6 +3,6 @@
 extern "C" int kev();
 
 int main() {
-    std::cout << "Hello, World!" << kev() << std::endl;
+    std::cout << "kev=" << kev() << std::endl;
     return 0;
 }
